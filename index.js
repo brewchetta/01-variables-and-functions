@@ -1,0 +1,1 @@
+console.log("Day One - Variables and Functions")
